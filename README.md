@@ -84,8 +84,6 @@ contentScript.bundle.js:36 [CS]  start
 ```
 You have new mail.
 MacBook-Pro-2:~ yutonagao$ cd fujiwara
-MacBook-Pro-2:fujiwara yutonagao$ git clone git@github.com:wec-tech-app2019/learning-http-message.git
-fatal: destination path 'learning-http-message' already exists and is not an empty directory.
 MacBook-Pro-2:fujiwara yutonagao$ git clone git@github.com:YutoNagao/learning-javascript-01.git
 Cloning into 'learning-javascript-01'...
 remote: Enumerating objects: 10, done.
